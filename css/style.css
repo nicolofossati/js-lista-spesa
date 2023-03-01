@@ -3,3 +3,17 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+#container{
+    width: 30%;
+    margin: auto;
+}
+
+ul{
+    margin: 20px 0 0 20px;
+    font-size: 20px;
+}
+
+li{
+    margin-bottom: 5px;
+}
